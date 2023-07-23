@@ -1,5 +1,4 @@
 # The PyChain Ledger
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://homeworkmodule18.streamlit.app/)
 
 This homework provides a simple implementation of a blockchain ledger, named PyChain, using Python and the Streamlit library for the user interface. The PyChain ledger allows for the recording of transactions (sender, receiver, and amount), encapsulated in the blocks of the chain.
 
@@ -13,7 +12,7 @@ This homework provides a simple implementation of a blockchain ledger, named PyC
 
 - **Testing the PyChain Ledger**: The integrity of the PyChain ledger can be validated using the user interface. To run the application, navigate to the project folder in the terminal and execute `streamlit run pychain.py`. User inputs and blockchain validation can be tested directly from the web interface.
 
-For a detailed view of the blockchain and its validation, please refer to the provided screenshots.
+For a detailed view of the blockchain and its validation, please refer to the link [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://homeworkmodule18.streamlit.app/) and provided screenshots.
 
 ![PyChain blocks](./path_to_screenshot1.png)
 
