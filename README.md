@@ -14,6 +14,8 @@ This homework provides a simple implementation of a blockchain ledger, named PyC
 
 For a detailed view of the blockchain and its validation, please refer to the link [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://homeworkmodule18.streamlit.app/) and provided screenshots.
 
-![PyChain blocks](./path_to_screenshot1.png)
-
-![PyChain validation](./path_to_screenshot2.png)
+![PyChain blocks](./Images/ledger.png)
+![Winning Hash](./Images/winning_hash.png)
+![Block Inspector](./Images/block_inspector.png)
+![Terminal outputs](./Images/output.png)
+![PyChain validation](./Images/validate.png)
